@@ -1,0 +1,5 @@
+{
+  "required": [
+    "sEMG_exercise_stimulus_DB1.csv"
+  ]
+}
